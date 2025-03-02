@@ -1,0 +1,46 @@
+
+Christianah Oyewale,Androgynous Agent,I trust this AI agent.,6
+Christianah Oyewale,Androgynous Agent,This agent is reliable.,5
+Christianah Oyewale,Androgynous Agent,I feel comfortable using this agent.,7
+Christianah Oyewale,Male Agent,I trust this AI agent.,4
+Christianah Oyewale,Male Agent,This agent is reliable.,6
+Christianah Oyewale,Male Agent,I feel comfortable using this agent.,6
+Christianah Oyewale,Female Agent,I trust this AI agent.,6
+Christianah Oyewale,Female Agent,This agent is reliable.,7
+Christianah Oyewale,Female Agent,I feel comfortable using this agent.,7
+Joshua Bruce,Androgynous Agent,I trust this AI agent.,5
+Joshua Bruce,Androgynous Agent,This agent is reliable.,6
+Joshua Bruce,Androgynous Agent,I feel comfortable using this agent.,7
+Joshua Bruce,Male Agent,I trust this AI agent.,4
+Joshua Bruce,Male Agent,This agent is reliable.,5
+Joshua Bruce,Male Agent,I feel comfortable using this agent.,6
+Joshua Bruce,Female Agent,I trust this AI agent.,6
+Joshua Bruce,Female Agent,This agent is reliable.,6
+Joshua Bruce,Female Agent,I feel comfortable using this agent.,7
+Mariam Anifowose,Androgynous Agent,I trust this AI agent.,6
+Mariam Anifowose,Androgynous Agent,This agent is reliable.,7
+Mariam Anifowose,Androgynous Agent,I feel comfortable using this agent.,5
+Mariam Anifowose,Female Agent,I trust this AI agent.,5
+Mariam Anifowose,Female Agent,This agent is reliable.,6
+Mariam Anifowose,Female Agent,I feel comfortable using this agent.,7
+Mariam Anifowose,Male Agent,I trust this AI agent.,4
+Mariam Anifowose,Male Agent,This agent is reliable.,5
+Mariam Anifowose,Male Agent,I feel comfortable using this agent.,6
+Alanda Kamam,Female Agent,I trust this AI agent.,4
+Alanda Kamam,Female Agent,This agent is reliable.,6
+Alanda Kamam,Female Agent,I feel comfortable using this agent.,7
+Alanda Kamam,Male Agent,I trust this AI agent.,5
+Alanda Kamam,Male Agent,This agent is reliable.,7
+Alanda Kamam,Male Agent,I feel comfortable using this agent.,4
+Alanda Kamam,Androgynous Agent,I trust this AI agent.,6
+Alanda Kamam,Androgynous Agent,This agent is reliable.,5
+Alanda Kamam,Androgynous Agent,I feel comfortable using this agent.,6
+Ane Joshua,Androgynous Agent,I trust this AI agent.,5
+Ane Joshua,Androgynous Agent,This agent is reliable.,6
+Ane Joshua,Androgynous Agent,I feel comfortable using this agent.,7
+Ane Joshua,Female Agent,I trust this AI agent.,6
+Ane Joshua,Female Agent,This agent is reliable.,5
+Ane Joshua,Female Agent,I feel comfortable using this agent.,6
+Ane Joshua,Male Agent,I trust this AI agent.,5
+Ane Joshua,Male Agent,This agent is reliable.,6
+Ane Joshua,Male Agent,I feel comfortable using this agent.,7
